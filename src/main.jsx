@@ -4,12 +4,9 @@ import App from './App.jsx'
 import './index.css'
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import WOW from 'wowjs';
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 
-
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 
 
